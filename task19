@@ -1,0 +1,9 @@
+#include<iostream>
+#include<cmath>
+using namespace std;
+int main(){
+	double x,b;
+	cin>>x>>b;
+	cout<<300*x/1000+400*b/1000<<" "<<3*(2000*x/1000+1800*b/1000);
+	return 0;
+}
