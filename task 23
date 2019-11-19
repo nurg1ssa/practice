@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main (){
+    int a,b,x,y;
+    cin>>x>>a>>y>>b;
+    cout<<a/x*y<<a/x*b;
+    retrun 0;
+}
